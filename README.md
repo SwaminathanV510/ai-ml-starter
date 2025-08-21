@@ -1,5 +1,9 @@
 # AI/ML Starter Project
 
+[![Tests](https://github.com/SwaminathanV510/ai-ml-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/SwaminathanV510/ai-ml-starter/actions)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 A beginner-friendly machine learning project using Python and scikit-learn. It trains a classifier on the classic Iris dataset, saves the model, includes tests, and provides a small FastAPI service for predictions.
 
 ## Quickstart
